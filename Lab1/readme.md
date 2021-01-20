@@ -1,5 +1,5 @@
 ## Nicole Terry  
-#January 20th 2021
+January 20th 2021
 
 ## Executive Summary
 In lab #1, we explore the concepts of information systems, along with the history of client-server businesses.
