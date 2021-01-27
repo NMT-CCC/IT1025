@@ -60,6 +60,7 @@ Binary is a number system using a base  of 2, Decimals are set on a base 10, and
 ### Hexadecimal Color Representation
 Hex numbers use 16 digits:
 0 1 2 3 4 5 6 7 8 9 A B C D E F
+
 00 is the absence of color in the hex-color chart. FF is a super-saturated color. 
 The colors are separated into 3 colors in the RBG chart, 2 color values for each, once you put all three color values together, you get the 6 digit hex code for that color.
 For the color #ab00ff you have 67.1% red, 0% green and 100% blue.
