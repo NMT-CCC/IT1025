@@ -38,23 +38,32 @@ print(f'The sum of {a} and {b} is {sum(a, b)}')
 
 ### Three data types:
 Integers - An integer is a whole number that you can manipulate in Python. 
+
 Float-  A Float is a number with a decimal point, such as 3.14.
+
 String - A String is a line of text inside quotes in a line of code.
 
 ## Graphics
 
 ### Raster vs. Vector Graphics
-Raster images can be zoomed in on to get more detail, like a google map view. If you try to resize the image larger than its original size, however, you will lose quality.
-Vector images are made with mathematical formulas and you won't lose image quality when you make the image larger or smaller. This can be especially useful if you are using the same image in several places at different sizes, such as a company logo.
+
+- Raster images can be zoomed in on to get more detail, like a google map view. If you try to resize the image larger than its original size, however, you will lose quality.
+
+- Vector images are made with mathematical formulas and you won't lose image quality when you make the image larger or smaller. This can be especially useful if you are using the same image in several places at different sizes, such as a company logo.
 
 ### Lossless vs. Lossy Compression
-Lossy compression can delete data that will not be noticeable. 
-Lossless compression will not delete any data from the original file.
+
+- Lossy compression can delete data that will not be noticeable. 
+
+- Lossless compression will not delete any data from the original file.
 
 ### File Formats
 .jpg, .gif, and .png are all image file formats. 
+
 JPG stands for Joint Photographic Experts Group - .jpg files are the most common for photographs and high resolution pictures and can be compressed to fit a large photo into a relatively small file.
+
 GIF stands for Graphics Interchange Format - .gif files are very common on the internet, and are normally used for small animations, or 8 bit images.
+
 PNG stands for Portable Network Graphics - .png files are great for transparent pictures and use lossless compression.
 
 ### File Properties
