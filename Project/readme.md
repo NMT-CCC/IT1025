@@ -8,7 +8,7 @@ Include your executive summary
 
 ### Part Part 1: Project Intent and Plan
 
-I will be selecting a topic to research. More to come.
+I will be trying to program a dice roller in python. Ideally I will create a prompt and response for each polyhedral die. "Roll 1d20" should give you a random number from 1-20.
 
 ### Project Part 2:
 
