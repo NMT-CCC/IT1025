@@ -1,4 +1,5 @@
-###Nicole Terry
+### Nicole Terry
+
 February 23rd 2021
 
 ### Executive Summary
