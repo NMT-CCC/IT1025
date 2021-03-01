@@ -73,11 +73,22 @@ XML doesn’t DO anything, it’s information within tags. HTML displays the dat
 Match the following terms / definitions under the heading and explain how they are related by providing an example of all of the pieces of a URL: 
  
 Scheme - https
+
+
 Domain - www.amazon.com
+
+
 Default page - No file path provided
+
+
 Parameters - result of search
+
+
 Anchor - specific location on a page.
+
+
 Top level domain - .edu
+
 
 ## Conclusion
 We learned a lot of interesting facts in this unit. About Internet Protocols and Internet Security. 
