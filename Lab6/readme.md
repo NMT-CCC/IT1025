@@ -13,9 +13,17 @@ An IP address is a set of unique numbers assigned to every device that connects 
 My internet connection:
 
    Link-local IPv6 Address . . . . . : fe80::98c9:21e5:e536:6391%20
+   
+   
    IPv4 Address. . . . . . . . . . . : 192.168.0.182
+   
+   
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   
+   
    Default Gateway . . . . . . . . . : 192.168.0.1
+   
+   
 
 #### ICANN
 ICANN stands for the Internet Corporation for Assigned Names and Numbers, they are an organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network's stable and secure operation.
